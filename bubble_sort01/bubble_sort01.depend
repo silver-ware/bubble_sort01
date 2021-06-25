@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624563740 source:/home/splushh/Documents/projects/bubble_sort01/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
